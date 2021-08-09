@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+body{
+    margin: 0 auto;
+    font-size: 100%;
+}
+
+.section {
+    margin: 0 auto;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+h1.main_heading {
+    margin-bottom: 50px;
+    border-bottom: 10px solid blue;
+}
+li {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+h1.main_heading.top {
+    margin-bottom: 0;
+    border-bottom: none;
+}
+.main_section {
+    margin-bottom: 30px;
+}
+.footer_section {
+    background: #ddd;
+    text-align: center;
+    padding: 5px 0;
+}
